@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Roodi7
-- 👀 Junior PHP/Laravel developer
+- 👀 Mid PHP/Laravel developer
 - 📫 How to reach me fb.com/7arrow ,github.com/Roodi7
